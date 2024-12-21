@@ -1,0 +1,18 @@
+# Directories
+.idea/
+.vs/
+.vscode/
+.pytest_cache/
+__pycache__/
+build/
+dist/
+tmp/
+
+# Files
+*.iml
+*.iws
+*.ipr
+*.ids
+*.spec
+CMakeUserPresets.json
+CMakeSettings.json
